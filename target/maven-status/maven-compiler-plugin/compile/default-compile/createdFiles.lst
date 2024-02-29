@@ -1,0 +1,6 @@
+biblioteca\Biblioteca.class
+items\Revista.class
+biblioteca\Prestamo.class
+items\Libro.class
+biblioteca\Usuario.class
+biblioteca\Item.class
